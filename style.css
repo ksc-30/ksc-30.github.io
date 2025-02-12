@@ -433,3 +433,25 @@ article.icon{
     padding:0.5rem;
 }
 
+.contact-info-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    margin:1rem;
+}
+
+.contact-info-container p{
+    font-size: larger;
+}
+
+
+.contact-icon{
+    cursor:default;
+    height:2.5rem;
+}
+
+.email-icon{
+    height:2.5rem;
+}
+
