@@ -232,6 +232,8 @@ socials-container{
 .icon{
     cursor: pointer;
     height: 2rem;
+    margin-top: 2rem;
+
 }
 
 /* Our buttons */
