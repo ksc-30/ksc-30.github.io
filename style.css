@@ -232,7 +232,16 @@ socials-container{
 .icon{
     cursor: pointer;
     height: 2rem;
+    margin-top: 2rem;
+
 }
+.email-icon{
+    margin-top: 0cap;
+}
+.contact-icon{
+    margin-top: 0cap;
+}
+
 
 /* Our buttons */
 
